@@ -1,0 +1,4 @@
+streamlit==1.18.1
+pandas
+pyodbc
+openai==0.28.1
